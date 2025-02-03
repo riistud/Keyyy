@@ -1,4 +1,4 @@
-    ({
-        token: "AlwaysKaizi",
-        expires: "2025-12-31"
-    });
+{
+    "token": "AlwaysKaizi",
+    "expires": "2025-12-31"
+}
